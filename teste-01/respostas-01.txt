@@ -1,0 +1,26 @@
+1) Comando "nano"
+    a) Editor de texto pequeno e amigável, fornecendo atalhos rápidos para iniciantes.
+
+    b) nano [options] nome_do_arquivo.
+
+    c) Seção 1 - General Commands Manual.
+
+    d) -B ou --backup, ao salvar o arquivo que foi editado, salva a versão anterior
+       usando o nome do arquivo mais o prefixo til (~).
+
+2)
+    a) O comando "ls -a".
+
+    b) .bash_logout, .bashrc e .bash_history.
+
+3)
+    a) O comando "file nome_do_arquivo".
+
+    b) É uma extensão para arquivos de aúdio.
+
+4) O comando "stat nome_do_arquivo"
+
+5)
+    a) O comando "history"
+
+    b) Utilizando o comando "!-1"
